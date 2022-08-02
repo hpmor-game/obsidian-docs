@@ -33,6 +33,8 @@
 Основное:
 - [obsidian-docs](https://github.com/hpmor-game/obsidian-docs) - вся публичная информация по проекту и документация (либо ссылки на неё)
 - [hpmor](https://github.com/hpmor-game/hpmor) - основной репозиторий с исходным кодом игры на Rust
+- [visual](https://github.com/hpmor-game/visual) - всё, что касается визуальной составляющей: спрайты, дизайн
+- [writing](https://github.com/hpmor-game/writing) - диалоги, сценарий, сюжет
 
 Инструменты для создания и работы с диалогами:
 - [dlg-vscode-extension](https://github.com/hpmor-game/dlg-vscode-extension) - расширение для программы VS code, помогающее писать диалоги
